@@ -3,7 +3,7 @@ Version:	45673
 Release:	2
 Summary:	Easy typesetting of invoices
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simpleinvoice
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/simpleinvoice
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simpleinvoice.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simpleinvoice.doc.r%{version}.tar.xz
